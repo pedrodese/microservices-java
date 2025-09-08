@@ -8,6 +8,7 @@ public class CustomersmicroserviceApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(CustomersmicroserviceApplication.class, args);
+        System.out.println("Customers Microservice Started");
 	}
 
 }
