@@ -10,7 +10,7 @@ public class EurekaserverApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(EurekaserverApplication.class, args);
-        System.out.println("Eureka Server started");
+        System.out.println("Eureka Server started at port 8761");
 	}
 
 }
